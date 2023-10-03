@@ -30,7 +30,9 @@ public String display()
 public String owner()
 {
 
-    return "@Satyam Patel  deployed java application Azure Successfully ";
+   // return "@Satyam Patel  deployed java application Azure Successfully ";
+   return "Hiii Ishika , Thoda aaram kr le thak gyi hogi";
+    
 
 }
 
