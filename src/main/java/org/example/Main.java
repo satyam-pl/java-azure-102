@@ -27,7 +27,7 @@ public String display()
 
     
     @GetMapping("/satyam")
-public String display()
+public String owner()
 {
 
     return "@Satyam Patel  deployed java application Azure Successfully ";
