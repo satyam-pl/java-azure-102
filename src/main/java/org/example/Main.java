@@ -24,6 +24,17 @@ public String display()
     return "deployed Successful";
 
 }
+
+    
+    @GetMapping("/satyam")
+public String display()
+{
+
+    return "@Satyam Patel  deployed java application Azure Successfully ";
+
+}
+
+    
 }
 
 
